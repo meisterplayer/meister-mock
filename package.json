@@ -1,0 +1,21 @@
+{
+  "name": "@meisterplayer/meister-mock",
+  "version": "1.0.0",
+  "description": "A mock for the global Meister object to be used in tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Meister",
+    "unit",
+    "test",
+    "mock"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meisterplayer/meister-mock.git"
+  },
+  "author": "Triple",
+  "license": "Apache-2.0"
+}
